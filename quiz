@@ -1,0 +1,46 @@
+{
+    "questions": [
+      {
+        "answers": [
+          "The Gran Chaco",
+          "The Atlantic Rainforest",
+          "the Amazon Rainforest"
+          
+        ],
+        "correct": {
+          "index": 2,
+          "text": "Very little remains of this biome is South America which once covered the coast of Brazil.\""
+        },
+        "number": 1,
+        "prompt": "This critically endangered rainforest was once the home of plenty of golden lion tamarins"
+      },
+      {
+        "answers": [
+          "slash and burn",
+          "beef and soy"
+         
+        ],
+        "correct": {
+          "index": 1
+        },
+        "number": 2,
+        "prompt": "Which is the greatest cause of deforestation in the Chaco, Cerrado, and Amazon rainforests?"
+      },
+      {
+         "answers": [
+          "all of the above",
+          "ocean acidification",
+          "sea temperature rises and stronger solar radiation "
+             ],
+        "correct": {
+          "index": 0
+            },
+        "image": "Keppelbleaching.jpg",
+       
+        "number": 3,
+        "prompt": "Which are the main causes of coral bleaching across the world?"
+      }
+    ],
+    "title": "shall we discover the biomes of the world?",
+    "url": "https://chloepc03.github.io/ourbiomes-quiz/"
+  }
